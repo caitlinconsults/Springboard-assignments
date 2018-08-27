@@ -1,2 +1,2 @@
 # Springboard-assignments
-Springboard.com coursework
+Springboard.com coursework that is not related to the capstone project. 
