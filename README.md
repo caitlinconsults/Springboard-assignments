@@ -1,2 +1,3 @@
-# Springboard-assignments
-Springboard.com coursework that is not related to the capstone project. 
+# Springboard Assignments
+
+This repo contains springboard.com coursework that is not related to the Capstone project. 
